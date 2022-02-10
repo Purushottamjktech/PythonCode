@@ -8,7 +8,7 @@ class Employee:
         self.department = department
 
     def edetails(self):
-        print(f'Name of employee is {self.name}  and he is working in {self.company}  in {self.department} section')
+        print(f"Name of employee is {self.name}  and he is working in {self.company}  in {self.department} section")
 
 
 a = Employee("PURUSHOTTAM","DEVELOPER")
